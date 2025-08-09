@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import "./index.css"
 import { BiCaretDown } from "react-icons/bi";
 import { GiArchiveResearch } from "react-icons/gi";
